@@ -1,0 +1,3 @@
+So much to do... right now you just send in the guild id and name you want and it generates a tab delimited file
+
+So run "php application.php > output.csv" and then import into google docs
